@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\sb\\anaconda3\\envs\\myDjangoEnv\\python.exe"
+    "python.pythonPath": "C:\\Users\\sb\\anaconda3\\envs\\myDjangoEnv\\python.exe",
+    "python.linting.enabled": false
 }
