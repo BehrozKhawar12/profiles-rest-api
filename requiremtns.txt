@@ -1,0 +1,2 @@
+django==2.2
+djanao rest framework =3.9.2
